@@ -1,5 +1,5 @@
 # How to evaluate the change of sEV release upon gene knockout
-This document describes the usage of codes (count_barcodes.py and calculate_zRE.py) in our [paper] (https://www.biorxiv.org/content/10.1101/2023.09.28.559700v1) to calculate z-RE, the change of sEV release for a gene upon knockout, from raw .fastq files. 
+This document describes the usage of codes (count_barcodes.py and calculate_zRE.py) in our [paper](https://www.biorxiv.org/content/10.1101/2023.09.28.559700v1) to calculate z-RE, the change of sEV release for a gene upon knockout, from raw .fastq files. 
 
 ## System requirements
 We used the following packages in Windows 11 Home. Most packages are accompanied by [anaconda3]( https://www.anaconda.com/download) while other packages that is not included in anaconda such as [biopython]( https://biopython.org/) are downloaded from websites or individually pip-installed. Note that the latest or older versions have now possibly become incompatible with our codes.
