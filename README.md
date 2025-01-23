@@ -1,11 +1,14 @@
 # CIBER-screening-paper
-Scripts from the Kunitake et al biorxiv 2023 manuscript entitled "Barcoding of small extracellular vesicles with CRISPR-gRNA enables comprehensive, subpopulation-specific analysis of their biogenesis/release regulators".
+Scripts from the Kunitake et al Nature Communications 2024 manuscript entitled "Barcoding of small extracellular vesicles with CRISPR-gRNA enables comprehensive, subpopulation-specific analysis of their biogenesis and release regulators".
 
 ## Publication
-- [preprint](https://www.biorxiv.org/content/10.1101/2023.09.28.559700v1)
+- [Nature Communications 2024, 15, 9777](https://www.nature.com/articles/s41467-024-53736-x)
 
 ## Citation
-(This section will be written after publication)
+Koki Kunitake, Tadahaya Mizuno, Kazuki Hattori, Chitose Oneyama, Mako Kamiya, Sadao Ota, Yasuteru Urano & Ryosuke Kojima
+Barcoding of small extracellular vesicles with CRISPR-gRNA enables comprehensive, subpopulation-specific analysis of their biogenesis and release regulators
+Nature Communications 2024, 15, 9777
+
 
 ## Authors
 - [Koki Kunitake](https://github.com/Koki-KUNITAKE)  
