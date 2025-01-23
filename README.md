@@ -6,7 +6,7 @@ Scripts from the Kunitake et al Nature Communications 2024 manuscript entitled "
 
 ## Citation
 Koki Kunitake, Tadahaya Mizuno, Kazuki Hattori, Chitose Oneyama, Mako Kamiya, Sadao Ota, Yasuteru Urano & Ryosuke Kojima.
-Barcoding of small extracellular vesicles with CRISPR-gRNA enables comprehensive, subpopulation-specific analysis of their biogenesis and release regulators
+Barcoding of small extracellular vesicles with CRISPR-gRNA enables comprehensive, subpopulation-specific analysis of their biogenesis and release regulators.
 Nature Communications 2024, 15, 9777
 
 
